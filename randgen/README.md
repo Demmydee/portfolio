@@ -1,6 +1,6 @@
 This little project is a random number game.
 
-A player guess what number the computer is going to display randomly between 1 and 10
+A player guesses what number the computer is going to display randomly between 1 and 10
 
 To make it more fun, players can win or lose while playing this simple game.
 
